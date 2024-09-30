@@ -21,4 +21,4 @@ UnifaGoal is a New York Times App that provides users with access to the latest 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/unifaGoal.git
+  git clone https://github.com/AnnaPerekhrestUnifa/unifaGoal.git
